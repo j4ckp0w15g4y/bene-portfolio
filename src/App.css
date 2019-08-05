@@ -22,3 +22,12 @@
   .first-para {
     margin-bottom: 58px;
   }
+
+  .underline-word {
+    text-decoration: none; 
+    border-bottom: 2px solid white;
+  }
+
+  .sans-style {
+    font-family: Helvetica, sans-serif;
+  }
