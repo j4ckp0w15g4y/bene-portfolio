@@ -1,24 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
+import 'normalize.css'; 
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <p className="first-para">I am a London based interdisciplinary graphic designer, working predominantly within the arts, music and fashion. Clients include, Oval Space, The Pickle Factory, Rollacoaster Magazine, Stella McCartney, University College of London and Rinse FM.</p>
+      <p>For enquiries, contact me via email, or see a selection of work on my Instagram.</p>
     </div>
   );
 }
