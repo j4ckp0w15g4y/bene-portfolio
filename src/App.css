@@ -45,13 +45,13 @@ a {
   and (-webkit-min-device-pixel-ratio: 2) {
     .App, .underline-word, .sans-style {
     width: 70%;
-    font-size: 22px;
+    font-size: 26px;
     }
     .first-para {
       margin-bottom: 20px;
     }
     .second-para {
-      margin-bottom: 10px;
+      margin-bottom: 40px;
       
     }
 
