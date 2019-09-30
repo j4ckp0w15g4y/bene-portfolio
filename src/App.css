@@ -19,13 +19,18 @@ a {
   font-style: normal;
   font-weight: normal;
   /* font-size: 3.9669421487603307VW;; */
-  font-size: 7VH;
-  line-height: 1.16;  
+  font-size: 6.8VH;
+  line-height: 1.16;
+  margin-bottom: 2em;  
   }
 
   .first-para {
-    margin-bottom: 1.4em;
-    margin-right: 1.0em;
+    margin-bottom: 1.4em;   
+  }
+
+  .first-para, .second-para {
+  margin-right: 0.8em;    
+
   }
 
 
@@ -37,7 +42,7 @@ a {
   .sans-style {
     font-family: Helvetica, sans-serif;
     /* font-size: 3.6363636363636362VH; */
-    font-size: 7VH;
+    font-size: 6.8VH;
     font-weight: lighter;
   }
 
