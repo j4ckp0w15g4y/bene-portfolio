@@ -21,11 +21,15 @@ a {
   /* font-size: 3.9669421487603307VW;; */
   font-size: 6.8VH;
   line-height: 1.16;
-  margin-bottom: 2em;  
   }
 
   .first-para {
     margin-bottom: 1.4em;   
+  }
+
+  .second-para {
+  margin-bottom: 2em;  
+
   }
 
   .first-para, .second-para {
