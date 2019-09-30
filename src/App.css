@@ -18,7 +18,8 @@ a {
   height: 100%;    
   font-style: normal;
   font-weight: normal;
-  font-size: 3.9669421487603307VW;;
+  /* font-size: 3.9669421487603307VW;; */
+  font-size: 7VH;
   line-height: 1.16;  
   }
 
@@ -35,7 +36,8 @@ a {
 
   .sans-style {
     font-family: Helvetica, sans-serif;
-    font-size: 3.6363636363636362VW;
+    /* font-size: 3.6363636363636362VH; */
+    font-size: 7VH;
     font-weight: lighter;
   }
 
